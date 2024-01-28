@@ -1,5 +1,5 @@
 **Chat Room Application**
--This simple chat room application consists of a server and client implemented in Java. 
+- This simple chat room application consists of a server and client implemented in Java. 
 -The server allows multiple clients to connect and communicate with each other in a shared chat space.
 
 **#Client**
